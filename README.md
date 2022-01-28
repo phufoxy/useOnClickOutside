@@ -13,7 +13,7 @@ Using yarn
 
 ```ruby
 $ yarn add use-onclickoutside-hooks
-import useOnClickOutside from 'login-components'
+import useOnClickOutside from 'use-onclickoutside-hooks'
 ```
 
 # Example
