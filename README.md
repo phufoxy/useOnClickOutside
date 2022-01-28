@@ -1,7 +1,5 @@
 # Use Onclickoutside hooks
 
-Component Login use antd design
-
 # Installing
 
 Using npm
