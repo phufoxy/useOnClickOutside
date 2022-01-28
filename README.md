@@ -22,9 +22,9 @@ import useOnClickOutside from 'login-components'
 
 ```ruby
 import React, { useRef } from 'react';
-import useOnClickOutside from 'use-onclickoutside-hooks'
+import { useOnClickOutside } from 'use-onclickoutside-hooks';
 
-export default function InputNumberCus({ items = [] }) {
+export default function ComponentTest({ items = [] }) {
   const ref = useRef();
 
   useOnClickOutside(ref, () => {
